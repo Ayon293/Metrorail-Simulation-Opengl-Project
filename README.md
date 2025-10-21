@@ -29,3 +29,4 @@ This project is a simple metro rail simulation using OpenGL and C++. It shows a 
 
 <img width="1917" height="964" alt="Image" src="https://github.com/user-attachments/assets/56c49ad0-d930-4098-bb1c-d3edf5e9a65c" />
 
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/3110cc66-706b-49fb-9c4b-95b88e9e64c5" />
