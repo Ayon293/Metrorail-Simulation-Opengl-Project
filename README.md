@@ -25,5 +25,7 @@ This project is a simple metro rail simulation using OpenGL and C++. It shows a 
 - Press Mouse Right Button → Night view (3rd scenario)  
 - Press 0 → Show instructions  
 
+## Screenshot
 
+<img width="1917" height="964" alt="Image" src="https://github.com/user-attachments/assets/56c49ad0-d930-4098-bb1c-d3edf5e9a65c" />
 
